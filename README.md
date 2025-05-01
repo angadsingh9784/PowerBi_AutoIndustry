@@ -1,6 +1,7 @@
 # PowerBi_AutoIndustry
 PowerBi Dashboard of an Auto Industry
 
+![N1](https://github.com/user-attachments/assets/711cc4d0-8570-4d08-911c-91ddb75e7f37)
 
 # 🚗 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗶𝗻 𝗔𝗰𝘁𝗶𝗼𝗻: 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗦𝗮𝗹𝗲𝘀 & 𝗧𝗿𝗲𝗻𝗱𝘀 𝗶𝗻 𝘁𝗵𝗲 𝗔𝘂𝘁𝗼 𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝘆!
 
